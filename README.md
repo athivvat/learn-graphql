@@ -1,1 +1,2 @@
-# learn-graphql
+# Lean GraphQL 
+Learn to master GraphQL
